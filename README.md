@@ -61,14 +61,14 @@ I'm **Amr Atef**, a Senior Data Analyst with 4+ years of hands-on experience lev
 | Certification | Source | Link |
 |---------------|--------|------|
 | Data Scientist with Python (Track) | DataCamp | [View Certificate](https://drive.google.com/file/d/1PgmlkbWfr3WoPFXHDzunTwcHH2ICZ1I1/view) |
-| Data Analyst with Python (Track) | DataCamp | [View Certificate](https://drive.google.com/file/d/19uoquAV_DkVxl9oisDMA2EBGkpAihTZ4/view) |
-| Data Storytelling Concepts | DataCamp | [View Certificate](https://drive.google.com/file/d/1kPz4ojNUqkuTqKRoyJaKilXmHflVYRqd/view?usp=sharing) |
-| SQL Server Fundamentals | DataCamp | [View Certificate](https://drive.google.com/file/d/13g2j9ICdWPEJtagYNpU0HY6qtAe9dVJ2/view) |
-| SQL for Database Administrators | DataCamp | [View Certificate](https://drive.google.com/file/d/1_IumW4uDza-sh5GlimpwpKT2-kGSGCwn/view) |
-| Snowflake Foundations | DataCamp | [View Certificate](https://drive.google.com/file/d/1hFGvLjnrN6V5w0UFvy5-Net4aChOhrVh/view?usp=sharing) |
+| Data Analyst with Python (Track) | DataCamp | [View Certificate](https://drive.google.com/file/d/13g2j9ICdWPEJtagYNpU0HY6qtAe9dVJ2/view) |
+| Data Storytelling Concepts | DataCamp | [View Certificate](https://drive.google.com/file/d/1kPz4ojNUqkuTqKRoyJaKilXmHflVYRqd/view) |
+| SQL Server Fundamentals | DataCamp | [View Certificate](https://drive.google.com/file/d/1_IumW4uDza-sh5GlimpwpKT2-kGSGCwn/view) |
+| SQL for Database Administrators | DataCamp | [View Certificate](https://drive.google.com/file/d/13mbvyLWFARzqHKj8P89y0wP85a66aI39/view) |
+| Snowflake Foundations | DataCamp | [View Certificate](https://drive.google.com/file/d/18kWJEpX9wg_qMPSjtRzP9NdI7g5qZbBW/view) |
 | Data Analysis in Excel | DataCamp | [View Certificate](https://drive.google.com/file/d/135z0BPPUbqvVpyWM7Soj4cWrt61wKv44/view) |
-| Microsoft Power BI | Udemy | [View Certificate](https://drive.google.com/file/d/18kWJEpX9wg_qMPSjtRzP9NdI7g5qZbBW/view) |
-| dbt Fundamentals | DataCamp | [View Certificate](https://drive.google.com/file/d/13mbvyLWFARzqHKj8P89y0wP85a66aI39/view?usp=sharing) |
+| Microsoft Power BI | Udemy | [View Certificate](https://drive.google.com/file/d/19uoquAV_DkVxl9oisDMA2EBGkpAihTZ4/view) |
+| dbt Fundamentals | DataCamp | [View Certificate](https://drive.google.com/file/d/1hFGvLjnrN6V5w0UFvy5-Net4aChOhrVh/view) |
 
 ## 💻 Tech Stack:
 
