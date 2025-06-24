@@ -1,4 +1,9 @@
+<!--<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/150705661?v=4" width="150" />
+</p>--!>
 
+<h3 align="center">Hi there 👋, I'm Amr Atef</h3>
+<p align="center">Senior Data Analyst | Python Automation | Data Engineering Enthusiast</p>
 
 <!--
 **AmrAtefAmer/AmrAtefAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +32,28 @@ I'm **Amr Atef**, a Senior Data Analyst with 4+ years of hands-on experience lev
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-atef-665336151) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@amratef1258)
+
+## 🚀 Projects
+
+- **ETL Pipeline for Data Integration**  
+  *Python, AWS, APIs, Zoho Analytics*  
+  Built a full ETL pipeline to automate data extraction and dashboard syncing.
+
+- **Forecast Production Tool**  
+  *Streamlit, Prophet, MDX*  
+  Real-time forecasting dashboard for operational insights.
+
+- **Auto Confirmation System**  
+  *Python, Zoho CRM API*  
+  Automated delivery of confirmation numbers, reducing manual load.
+
+- **Markup Adjustment System**  
+  *Python, MDX, APIs*  
+  Dynamic pricing adjustment system that improved margin by 4.5%.
+
+- **Booking.com Scraper**  
+  *Python, Selenium*  
+  Automated scraping of hotel pricing & availability data.
 
 ---
 ## 📜 Certifications
