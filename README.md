@@ -35,6 +35,11 @@ I'm **Amr Atef**, a Senior Data Analyst with 4+ years of hands-on experience lev
 
 ## 🚀 Projects
 
+- **EET Contract Uploader System**  
+  *Python, Streamlit, Firebase, AWS EC2, APIs*  
+  Built a Streamlit web app to automate hotel contract uploads via Excel, replacing manual entry in Juniper. Integrated with Firebase for secure login and deployed on AWS EC2 for multi- 
+  user access, reducing manual effort and improving data accuracy.
+  
 - **ETL Pipeline for Data Integration**  
   *Python, AWS, APIs, Zoho Analytics*  
   Built a full ETL pipeline to automate data extraction and dashboard syncing.
